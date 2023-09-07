@@ -1,5 +1,3 @@
-# natural-language-processing-projects
-
 This repository encompasses all my work, code, datasets, and pertinent details related to my projects in Natural Language Processing (NLP). Over time, I've delved deep into the intricacies of NLP, exploring its expansive applications 
 and challenging problems, leveraging Python and popular NLP frameworks such as TensorFlow and NLTK.
 
